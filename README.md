@@ -1,0 +1,1 @@
+This work sample includes a php script which will dynamically generate a drop down menu based on the contents of the array called $aMenu found in list.php. It allows for unlimited subpages and the style can be adjusted for longer lists as needed.
